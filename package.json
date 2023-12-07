@@ -1,0 +1,18 @@
+{
+  "name": "vite-project-axios",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Kevinn Gonzales",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
